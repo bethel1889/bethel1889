@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bethel1889/bethel1889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -65,11 +63,11 @@ In addition to my work at TT Consulting, I'm also taking on personal projects li
 
 I'm always excited to explore new challenges in backend development, automation, and AI. Whether you're looking for a **backend developer** or just want to discuss **tech and innovation**, feel free to reach out!
 
--   [E-mail]()
--   [Contact]()
--   [LinkedIn]()
--   [Twitter]()
--   [GitHub]()
--   [Personal Website]()
+-   📞 +234 813 789 1382
+-   📧 [ibeaghaemmanuel@gmail.com](ibeaghaemmanuel@gmail.com)
+-   💼 [www.linkedin.com/in/bethel1889](www.linkedin.com/in/bethel1889)
+-   🐦 [https://x.com/BethelE59132946](https://x.com/BethelE59132946)
+-   🐙 [https://github.com/bethel1889](https://github.com/bethel1889)
+-   🏠 [https://bethel1889.github.io/pandora/](https://bethel1889.github.io/pandora/)
 
 ---
