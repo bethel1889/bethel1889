@@ -23,13 +23,13 @@ I'm a passionate Full-Stack Developer and AI enthusiast, currently working at TT
 
 ## 👨‍💻 About Me
 
-As a **Full-Stack Developer**, I focus on creating efficient, scalable, and innovative solutions using modern technologies. My strength lies in **backend development** where I use **Python**, frameworks like **Flask**, **FastAPI**, and tools like **Docker** to deploy systems on cloud-based infrastructure. I am also proficient in **Selenium** for automation.
+As a **Full-Stack Developer**, I focus on creating efficient, scalable, and innovative solutions using modern technologies. My strength lies in **backend development** where I use **Python**, frameworks like **Django**, **Flask**, **FastAPI**, and tools like **Docker** to deploy systems on cloud-based infrastructure. I am also proficient in **Selenium**, **Tweepy**, **Discord.py**, **PyAutoGUI** and **python-telegram-bot** for automation.
 
 At **TT Consulting Services Ltd**, I'm currently **rebuilding the entire web application from the ground up**, ensuring a seamless user experience and incorporating automation solutions to streamline appointment scheduling and document processing.
 
 While I specialize in the backend, I also handle **frontend development** with **basic HTML, CSS, SCSS, Bootstrap, and React**. My frontend knowledge is solid enough to build user interfaces, but I consider myself a **backend-first developer**.
 
-In addition to my work at TT Consulting, I'm also taking on personal projects like **CS50W**, as well as **rebuilding TT Consulting Services Ltd**. I'm excited about new opportunities and am **open to full-time roles** in **backend web development**.
+In addition to my work at TT Consulting, I'm also taking on personal projects like **CS50W**, as well as **rebuilding TT Consulting Services Ltd**. I'm excited about new opportunities and am **open to full-time roles** in **web development with Python**.
 
 ---
 
@@ -38,16 +38,16 @@ In addition to my work at TT Consulting, I'm also taking on personal projects li
 -   **Backend Development:** Python, Flask, FastAPI, Django
 -   **Frontend Development:** HTML, CSS, SCSS, Bootstrap, React (basic)
 -   **Databases:** Experience with relational and NoSQL databases
--   **Automation:** Expertise in automating workflows with **Selenium**
+-   **Automation:** Expertise in automating workflows with **Selenium** and **PyAutoGUI**
 -   **Cloud & Deployment:** Docker, Linux environments
 
 ---
 
-## 🚀 Projects
+## 🚀 Current Projects
 
 -   **CS50W Projects:** Currently working through the course and building projects that apply modern web development practices.
 -   **TT Consulting Rebuild:** Overseeing the complete overhaul of TT Consulting's web application, focusing on creating scalable backend infrastructure.
--   **AI-Powered Web Scraping Scripts:** Developed AI-powered tools for intelligent web scraping, capable of navigating dynamic websites and extracting valuable data ethically.
+-   **AI-Powered Web Scraping Scripts:** Developing an AI-powered tool for intelligent web scraping, capable of navigating dynamic websites and extracting valuable data ethically.
 
 ---
 
@@ -61,7 +61,7 @@ In addition to my work at TT Consulting, I'm also taking on personal projects li
 
 ## 🌐 Let's Connect
 
-I'm always excited to explore new challenges in backend development, automation, and AI. Whether you're looking for a **backend developer** or just want to discuss **tech and innovation**, feel free to reach out!
+I'm always excited to explore **new challenges** and learn **new technologies** in software development, automation, and AI. Whether you're looking for a **backend developer** or just want to discuss **tech and innovation**, feel free to reach out!
 
 -   📞 +234 813 789 1382
 -   📧 [ibeaghaemmanuel@gmail.com](ibeaghaemmanuel@gmail.com)
