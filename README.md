@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Software Developer | AI Enthusiast | Automation Expert
 
-I'm a passionate Full-Stack Developer and AI enthusiast, currently working at TT Consulting Services Ltd on a renewable contract. I specialize in building automation solutions and web applications that drive efficiency and innovation. With a strong foundation in backend technologies, I aim to build scalable and robust systems that make life easier for both developers and users.
+I'm a passionate Full-Stack Developer and AI enthusiast, currently working with TT Consulting Services Ltd. I specialize in building automation solutions and web applications that drive efficiency and innovation. With a strong foundation in backend technologies, I aim to build scalable and robust systems that make life easier for both developers and users.
 
 ---
 
@@ -29,7 +29,8 @@ At **TT Consulting Services Ltd**, I'm currently **rebuilding the entire web app
 
 While I specialize in the backend, I also handle **frontend development** with **basic HTML, CSS, SCSS, Bootstrap, and React**. My frontend knowledge is solid enough to build user interfaces, but I consider myself a **backend-first developer**.
 
-In addition to my work at TT Consulting, I'm also taking on personal projects like **CS50W**, as well as **rebuilding TT Consulting Services Ltd**. I'm excited about new opportunities and am **open to full-time roles** in **web development with Python**.
+I'm also taking Harvard's **CS50W**, as well as **[rebuilding TT Consulting Services Ltd](https://mazitt.com)**. I'm excited about new opportunities and am **open to full-time roles** in **web development with Python**.
+As firm believer in **Education**, I share my knowledge with the **community** through **talks** and **tutorials**.
 
 ---
 
@@ -66,8 +67,12 @@ I'm always excited to explore **new challenges** and learn **new technologies** 
 -   📞 +234 813 789 1382
 -   📧 [ibeaghaemmanuel@gmail.com](ibeaghaemmanuel@gmail.com)
 -   💼 [www.linkedin.com/in/bethel1889](www.linkedin.com/in/bethel1889)
--   🐦 [https://x.com/BethelE59132946](https://x.com/BethelE59132946)
--   🐙 [https://github.com/bethel1889](https://github.com/bethel1889)
+-   🐦 [https://x.com/bethel1889](https://x.com/BethelE59132946)
 -   🏠 [https://bethel1889.github.io/pandora/](https://bethel1889.github.io/pandora/)
 
 ---
+
+<!-- improved about me section
+removed the link to my github(it was redundant)
+linked mazi's old website
+added that I'm open to giving talks-->
